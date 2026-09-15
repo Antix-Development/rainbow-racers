@@ -1,3 +1,5 @@
+![Arena Shooter Prorotype](/js13k-stuff/poster.png)
+
 # Race all of the colors of the rainbow in Rainbow Racers, a 3D "rainbows and unicorn" themed racing game.
 
 Rainbow Racers features two game modes, The Rainbow Cup, and Instant Race.
