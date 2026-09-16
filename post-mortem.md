@@ -28,7 +28,7 @@ I added a bunch of random boxes on the inside of the track. Initially these were
 
 I ended up making them like another inner track and not so randomly sized, just random heights. This works pretty well and it does look like you're racing around a bunch of cliffs.
 
-Snce the whole racing scenario takes place in the sky it would be prudent (I thought) to have some clouds, and since I was (am) enthralled by boxes, they ended up being places around the outer perimeter of the track as a collection of boxes.
+Since the whole racing scenario takes place in the sky it would be prudent (I thought) to have some clouds, and since I was (am) enthralled by boxes, they ended up being placed around the outer perimeter of the track as a collection of boxes.
 
 I'm mostly happy with how they turned out, but they do sometimes have boxes where faces are on the same plane coordinates and there's a little graphical glitchiness, but they still work.
 
