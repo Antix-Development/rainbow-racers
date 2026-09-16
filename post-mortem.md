@@ -38,7 +38,7 @@ After a lot of agonizing and a lot of work I ended up using a basic 2d canvas ov
 
 After implementing the ui I began working on the non player unicorns and after (yet again) much deliberation and effort I had them working.
 
-They randomly pick a lane and kind of drive on that lane, moving back to it when they overtake, use a booster pad, or are bunted by another unicorn. I had originally made them like F1 cars and follow the best raciong line but then they looked kind of shit, like a unicorn congo line or convoy, and that isn't what I wanted.
+They randomly pick a lane and kind of drive on that lane, moving back to it when they overtake, use a booster pad, or are bunted by another unicorn. I had originally made them like F1 cars and follow the best racing line but then they looked kind of shit, like a unicorn congo line or convoy, and that isn't what I wanted.
 
 I got Gemini to help me make the engine noise and I am kind of happy with how it turned out. It pans and is fully 3D and sounds pretty great through headphones.
 
