@@ -24,7 +24,7 @@ I'm shit at 3d stuff so I got some of my AI pals to lend a hand with that side o
 
 The world was quite empty but I had a track and the unicorn model which could drive around it.
 
-I added a bunch of random boxes on he inside of the track. Initially these were randomly placedand randomly sized but there were way too many of them and trhey looked pretty bad.
+I added a bunch of random boxes on the inside of the track. Initially these were randomly placedand randomly sized but there were way too many of them and trhey looked pretty bad.
 
 I ended up making them like another inner track and not so randomly sized, just random heights. This works pretty well and it does look like you're racing around a bunch of cliffs.
 
