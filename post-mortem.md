@@ -38,11 +38,11 @@ After a lot of agonizing and a lot of work I ended up using a basic 2d canvas ov
 
 After implementing the ui I began working on the non player unicorns and after (yet again) much deliberation and effort I had them working.
 
-They randomly pick a lane and kind of drive on that lane, moving back to it when they overtake, use a booster pad, or are bunted by another unicorn. I had originally made them like F1 cars and follow the best racing line but then they looked kind of shit, like a unicorn congo line or convoy, and that isn't what I wanted.
+They randomly pick a lane and kind of drive on that lane, moving back to it when they overtake, use a booster pad, or are bunted by another unicorn. I had originally made them like F1 cars and follow the best racing line but then they looked kind of shit, like a unicorn conga line or convoy, and that isn't what I wanted.
 
 I got Gemini to help me make the engine noise and I am kind of happy with how it turned out. It pans and is fully 3D and sounds pretty great through headphones.
 
-I put a lot of effort into trying to make music this year but everything failed and I quite liked just the buzzing of the engines, so I ended up using ZZFXM Studio and clicking buttons until it generated two random tunes that I didn't mind too much.
+I put a lot of effort into trying to make music this year but everything failed and I quite liked just the buzzing of the engines, so I ended up using ZZFXM Studio and clicking buttons until it generated two random tunes that I didn't mind too much, which I use for the menus.
 
 The race logic was relatively easy compared to most of the other features in the game and I'm happy with how the two game modes ended up.
 
