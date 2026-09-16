@@ -34,11 +34,11 @@ I'm mostly happy with how they turned out, but they do sometimes have boxes wher
 
 At this point I had a basic prototype but no user interface.
 
-After a lot of agonizing and a lot ofwork I ended up using a basic 2d canvas overlay for the UI. I toyed with using a custom font but that just gobbled up way too many bytes and I settled on the systems ui font which actually doesn't look too bad when it's fattened up, outlined, and randomly rotated. The basic sky background and clouds (I feel) made quite a nice background for the menus.
+After a lot of agonizing and a lot of work I ended up using a basic 2d canvas overlay for the UI. I toyed with using a custom font but that just gobbled up way too many bytes and I settled on the systems ui font which actually doesn't look too bad when it's fattened up, outlined, and randomly rotated. The basic sky background and clouds (I feel) made quite a nice background for the menus.
 
 After implementing the ui I began working on the non player unicorns and after (yet again) much deliberation and effort I had them working.
 
-They randomly pick a lane and kind of drive on that lane, moving back to it when they overtake, use a booster pad, or being bunted. I had oroginally made them like F1 cars and follow the best raciong line but then they looked kind of shit, like a unicorn congo line or convoy, and that isn't what I wanted.
+They randomly pick a lane and kind of drive on that lane, moving back to it when they overtake, use a booster pad, or are bunted by another unicorn. I had oroginally made them like F1 cars and follow the best raciong line but then they looked kind of shit, like a unicorn congo line or convoy, and that isn't what I wanted.
 
 I got Gemini to help me make the engine noise and I am kind of happy with how it turned out. It pans and is fully 3D and sounds pretty great through headphones.
 
